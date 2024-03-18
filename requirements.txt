@@ -16,7 +16,7 @@ numpy>=1.16
 Pillow>=5.0
 pip
 pkginfo
-protobuf<5
+protobuf<6
 psutil>=5.6.3
 pydantic
 PyYAML>=2.12
